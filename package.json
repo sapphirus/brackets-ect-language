@@ -1,0 +1,17 @@
+{
+  "name": "brackets-ect-language",
+  "title": "ECT Language",
+  "description": "ECT file extension support.",
+  "homepage": "https://github.com/sapphirus/brackets-ect-language",
+  "version": "1.0.0",
+  "author": "Amakasu Ryoma",
+  "license": "MIT",
+  "keywords": [
+    "ect",
+    "html",
+    "language"
+  ],
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
